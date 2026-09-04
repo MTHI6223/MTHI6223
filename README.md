@@ -1,24 +1,225 @@
-<h1 align="center">Hi 👋, I'm Nkosinathi Mathenjwa</h1>
-<h3 align="center">As a Bachelor of Information Technology student at Belgium Campus, my academic pursuits center around Data Analytics, Database Development, Cloud computing, and software development. I actively engage in projects that explore innovative solutions and the integration of emerging technologies. My core competencies include data analysis, SQL, and enterprise resource planning (ERP). With a foundational understanding of these skills, I aim to contribute to the development of impactful technological solutions while further enhancing my expertise through continuous learning and hands-on experience.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mthi6223" alt="mthi6223" /></a> </p>
+# Hi, I'm Nkosinathi Mathenjwa 👋
 
-- 🔭 I’m currently working on **AI-Driver-Authentication**
+### `> Building digital experiences that matter.`
 
-- 🌱 I’m currently learning **Mastering Github and Python for Data Analytics**
+[![GitHub followers](https://img.shields.io/github/followers/MTHI6223?label=Follow&style=social)](https://github.com/MTHI6223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nkosinathi-mathenjwa-266ba0235)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mthi6223.github.io/Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthi6223@gmail.com)
 
-- 💬 Ask me about **C#**
+</div>
 
-- 📫 How to reach me **mthi6223@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nkosinathi-mathenjwa-266ba0235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nkosinathi-mathenjwa-266ba0235" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+```
+const Nkosinathi = {
+  role: "Bachelor of IT Student @ Belgium Campus iTversity",
+  location: "Johannesburg, South Africa",
+  focus: ["Data Analytics", "Full-Stack Development", "Cloud", "IoT", "Machine Learning"],
+  currentlyWorkingOn: "AI-Driven Heart Rate Monitoring System",
+  currentlyLearning: "AWS Data Engineering & Python for Analytics",
+  askMeAbout: ["C#", "Python", "SQL", "Data Analytics", "IoT"],
+  funFact: "I'm also a photographer and tribal dancer 📸💃",
+  graduation: "December 2026",
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mthi6223&show_icons=true&locale=en&layout=compact" alt="mthi6223" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mthi6223&show_icons=true&locale=en" alt="mthi6223" /></p>
+## 🎓 Education
+
+| Degree | Institution | Period | Highlights |
+|--------|------------|--------|------------|
+| **Bachelor of Information Technology** | Belgium Campus iTversity | Feb 2023 – Dec 2026 | **65.8%** avg · **16** distinctions · **324** credits |
+| **National Senior Certificate** | Selelekela Secondary School | Jan 2016 – Dec 2021 | Top 20 Student · Bachelor's Degree Admission |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Cloud & Analytics
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Languages & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHI6223&layout=compact&theme=radical&hide=html,css&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MTHI6223&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Driven Heart Rate Monitoring & Performance Analytics
+`IoT` `Machine Learning` `MongoDB` `Python`
+
+An end-to-end IoT wearable solution that optimizes athletic performance and mitigates cardiovascular risks through real-time HRV analytics and ML-based fatigue prediction.
+
+**Key Features:**
+- Real-time Heart Rate Variability monitoring
+- Machine learning fatigue prediction model
+- MongoDB data pipeline for IoT sensor data
+- Cardiovascular risk assessment dashboard
+
+[![View Project](https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTHI6223/PRJ361_Heart_Rate)
+
+</td>
+<td width="50%">
+
+### 🦸 Superhero Management System
+`C#` `.NET` `OOP` `CRUD`
+
+A desktop CRUD application for managing superhero records, missions, and statistics using clean Object-Oriented Programming principles.
+
+**Key Features:**
+- Full CRUD operations for superhero records
+- Mission tracking and assignment
+- Statistics dashboard
+- Clean OOP architecture
+
+[![View Repo](https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTHI6223/Superhero-management-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Smart Student Portal
+`Full-Stack` `REST API` `Authentication` `Node.js`
+
+An academic portal blueprint with user authentication, role-based access control, and RESTful API endpoints for student management.
+
+**Key Features:**
+- User registration & login system
+- Student dashboard with course management
+- Admin panel for student management
+- Role-based access (Admin vs Student)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTHI6223/Smart-Student-Portal)
+
+</td>
+<td width="50%">
+
+### 📈 Future Interns - Data Science Projects
+`Python` `Pandas` `Power BI` `Data Analytics`
+
+Three data analytics projects completed during the Future Interns Data Science & Analytics internship, focusing on real-world business insights.
+
+| Project | Description |
+|---------|-------------|
+| **Business Sales Analytics** | EDA and KPI analysis across retail sales data |
+| **Telco Churn Analysis** | Customer churn prediction and analysis |
+| **Bank Analysis** | Financial data analysis and visualization |
+
+[![View DS_01](https://img.shields.io/badge/Sales_Analytics-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MTHI6223/FUTURE_DS_01)
+[![View DS_02](https://img.shields.io/badge/Telco_Churn-1976D2?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MTHI6223/FUTURE_DS_02)
+[![View DS_03](https://img.shields.io/badge/Bank_Analysis-388E3C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/MTHI6223/FUTURE_DS_03)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date |
+|:---:|:---:|:---:|
+| **Data Engineering on AWS - Foundations** | Amazon Web Services | Apr 2026 |
+| **Advanced SQL and Database Design** | Amazon Web Services | Apr 2026 |
+| **SAS AI and Machine Learning Skills Fest** | SAS | Nov 2025 |
+| **Data Science and Analytics** | Future Interns | May 2026 |
+
+</div>
+
+---
+
+## 💼 Experience
+
+**Data Science & Analytics Intern** @ [Future Interns](https://futureinterns.co.za) | Remote | Apr – May 2026
+- Gained hands-on experience in data analysis, statistical modelling, and real-world application of data science concepts
+- Developed practical skills in data wrangling, visualization, and insight generation through project-based learning
+
+**Photographer (Self-Employed)** @ Mthiwothando Photography | Johannesburg | Mar 2022 – Dec 2023
+- Provided street and event photography services
+- Managed client relationships, scheduling, and post-production editing independently
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--medium-dark-477cc984c57a.png)
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthi6223@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nkosinathi-mathenjwa-266ba0235)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTHI6223)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mthi6223.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mthiwothando/)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"I write code that solves problems, not just code that runs."*
+
+![Visitors](https://komarev.com/ghpvc/?username=MTHI6223&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
