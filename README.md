@@ -68,13 +68,31 @@ When I'm not coding, you'll find me behind a camera as a **photographer** or per
 
 ---
 
-## 📊 Languages & Stats
+## 📊 Languages Breakdown
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHI6223&layout=compact&theme=chartreuse-dark&hide=html,css" alt="Top Languages" width="400"/>
+| Language | Usage | Projects |
+|----------|-------|----------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ██████████ | FUTURE_DS_01, FUTURE_DS_02, FUTURE_DS_03, PRJ361_Heart_Rate |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | ████████░░ | Superhero Management System |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ██████░░░░ | Smart Student Portal |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ████░░░░░░ | University Projects |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ███░░░░░░░ | University Projects |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | █████░░░░░ | Database Development |
 
-<img src="https://github-readme-stats.vercel.app/api?username=MTHI6223&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
+</div>
+
+### 📈 GitHub Overview
+
+<div align="center">
+
+| Stat | Value |
+|------|-------|
+| 📦 Public Repositories | 11 |
+| ⭐ Total Stars | 2 |
+| 🏆 Achievements | Quickdraw, Pull Shark |
+| 👥 Followers | 1 |
 
 </div>
 
