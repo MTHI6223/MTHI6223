@@ -72,9 +72,9 @@ When I'm not coding, you'll find me behind a camera as a **photographer** or per
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHI6223&layout=compact&theme=radical&hide=html,css&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHI6223&layout=compact&theme=chartreuse-dark&hide=html,css" alt="Top Languages" width="400"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MTHI6223&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MTHI6223&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450"/>
 
 </div>
 
