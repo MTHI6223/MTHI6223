@@ -15,18 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-```
-const Nkosinathi = {
-  role: "Bachelor of IT Student @ Belgium Campus iTversity",
-  location: "Johannesburg, South Africa",
-  focus: ["Data Analytics", "Full-Stack Development", "Cloud", "IoT", "Machine Learning"],
-  currentlyWorkingOn: "AI-Driven Heart Rate Monitoring System",
-  currentlyLearning: "AWS Data Engineering & Python for Analytics",
-  askMeAbout: ["C#", "Python", "SQL", "Data Analytics", "IoT"],
-  funFact: "I'm also a photographer and tribal dancer 📸💃",
-  graduation: "December 2026",
-};
-```
+I'm a final-year **Bachelor of Information Technology** student at **Belgium Campus iTversity**, based in Johannesburg, South Africa. My focus spans across **Data Analytics**, **Full-Stack Development**, **Cloud**, **IoT**, and **Machine Learning** — I enjoy turning complicated requirements into clean, useful digital products.
+
+I'm currently working on an **AI-Driven Heart Rate Monitoring System** while deepening my skills in **AWS Data Engineering & Python for Analytics**. If you want to chat about **C#**, **Python**, **SQL**, **Data Analytics**, or **IoT**, feel free to reach out — I'm always happy to talk tech.
+
+When I'm not coding, you'll find me behind a camera as a **photographer** or performing as a **tribal dancer** 💃. Graduating in **December 2026** and ready to build things that matter.
 
 ---
 
