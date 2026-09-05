@@ -15,9 +15,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a final-year **Bachelor of Information Technology** student at **Belgium Campus iTversity**, based in Johannesburg, South Africa. My focus spans across **Data Analytics**, **Full-Stack Development**, **Cloud**, **IoT**, and **Machine Learning** — I enjoy turning complicated requirements into clean, useful digital products.
+I'm a final-year **Bachelor of Information Technology** student at **Belgium Campus iTversity**, based in Johannesburg, South Africa. My focus spans across **Data Analytics**, **Full-Stack Development**, **Cloud**, **IoT**, and **Machine Learning** - I enjoy turning complicated requirements into clean, useful digital products.
 
-I'm currently working on an **AI-Driven Heart Rate Monitoring System** while deepening my skills in **AWS Data Engineering & Python for Analytics**. If you want to chat about **C#**, **Python**, **SQL**, **Data Analytics**, or **IoT**, feel free to reach out — I'm always happy to talk tech.
+I'm currently working on an **AI-Driven Heart Rate Monitoring System** while deepening my skills in **AWS Data Engineering & Python for Analytics**. If you want to chat about **C#**, **Python**, **SQL**, **Data Analytics**, or **IoT**, feel free to reach out - I'm always happy to talk tech.
 
 When I'm not coding, you'll find me behind a camera as a **photographer** or performing as a **tribal dancer** 💃. Graduating in **December 2026** and ready to build things that matter.
 
@@ -27,8 +27,8 @@ When I'm not coding, you'll find me behind a camera as a **photographer** or per
 
 | Degree | Institution | Period | Highlights |
 |--------|------------|--------|------------|
-| **Bachelor of Information Technology** | Belgium Campus iTversity | Feb 2023 – Dec 2026 | **65.8%** avg · **16** distinctions · **324** credits |
-| **National Senior Certificate** | Selelekela Secondary School | Jan 2016 – Dec 2021 | Top 20 Student · Bachelor's Degree Admission |
+| **Bachelor of Information Technology** | Belgium Campus iTversity | Feb 2023 - Dec 2026 | **65.8%** avg · **16** distinctions · **324** credits |
+| **National Senior Certificate** | Selelekela Secondary School | Jan 2016 - Dec 2021 | Top 20 Student · Bachelor's Degree Admission |
 
 ---
 
